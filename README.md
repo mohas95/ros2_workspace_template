@@ -1,0 +1,1 @@
+# Ros2 Colcon workspace template
